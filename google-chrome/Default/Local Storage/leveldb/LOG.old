@@ -1,0 +1,15 @@
+2021/09/30-16:10:55.322 3 Reusing MANIFEST /home/dong/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2021/09/30-16:10:55.324 3 Recovering log #29
+2021/09/30-16:10:55.385 3 Reusing old log /home/dong/.config/google-chrome/Default/Local Storage/leveldb/000029.log 
+2021/09/30-17:30:11.571 14 Level-0 table #33: started
+2021/09/30-17:30:11.619 14 Level-0 table #33: 23276 bytes OK
+2021/09/30-17:30:11.692 14 Delete type=0 #29
+2021/09/30-17:30:11.747 14 Compacting 4@0 + 1@1 files
+2021/09/30-17:30:11.853 14 Generated table #34@0: 332 keys, 118086 bytes
+2021/09/30-17:30:11.853 14 Compacted 4@0 + 1@1 files => 118086 bytes
+2021/09/30-17:30:11.883 14 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/09/30-17:30:11.884 14 Delete type=2 #21
+2021/09/30-17:30:11.884 14 Delete type=2 #30
+2021/09/30-17:30:11.884 14 Delete type=2 #26
+2021/09/30-17:30:11.884 14 Delete type=2 #24
+2021/09/30-17:30:11.884 14 Delete type=2 #33

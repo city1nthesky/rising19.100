@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorSession>
+<!-- Written by QtCreator 4.3.1, 2021-09-13T17:34:11. -->
+<qtcreator>
+ <data>
+  <variable>CascadeSetActive</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>Color</variable>
+  <value type="QString">#666666</value>
+ </data>
+ <data>
+  <variable>EditorSettings</variable>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNAAAAAMAAAB2AC8AaABvAG0AZQAvAGQAbwBuAGcALwByAGkAcwBpAG4AZwAvAFEAVAAvAHQAZQBzAHQALwBTAGMAYQBuAEMAaABhAHIAdAAvAHMAYwBhAG4AYwBoAGEAcgB0AF8AMAAxAC8AdwBpAGQAZwBlAHQALgBjAHAAcAAAAAwAAAAAGAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAHgALwBoAG8AbQBlAC8AZABvAG4AZwAvAHIAaQBzAGkAbgBnAC8AUQBUAC8AdABlAHMAdAAvAFMAYwBhAG4AQwBoAGEAcgB0AC8AcwBjAGEAbgBjAGgAYQByAHQAXwAwADEALwBzAGMAYQBuAGMAaABhAHIAdAAuAGgAAAAMAAAAABgAAAABAAAAAAAAAAAAAAAKAAAAEwAAAAAAAAB6AC8AaABvAG0AZQAvAGQAbwBuAGcALwByAGkAcwBpAG4AZwAvAFEAVAAvAHQAZQBzAHQALwBRAFQAYQBiAGwAZQBWAGkAZQB3AC8AUQB0AGEAYgBsAGUAdgBpAGUAdwBfADAAMQAvAHcAaQBkAGcAZQB0AC4AYwBwAHAAAAAMAAAAABgAAAABAAAABgAAAAAAAAANAAAAOwAAAAAAAAADAAAAeAAvAGgAbwBtAGUALwBkAG8AbgBnAC8AcgBpAHMAaQBuAGcALwBRAFQALwB0AGUAcwB0AC8AUwBjAGEAbgBDAGgAYQByAHQALwBzAGMAYQBuAGMAaABhAHIAdABfADAAMQAvAHMAYwBhAG4AYwBoAGEAcgB0AC4AaAAAABYAcwBjAGEAbgBjAGgAYQByAHQALgBoAAAAE0NwcEVkaXRvci5DKytFZGl0b3IAAAB6AC8AaABvAG0AZQAvAGQAbwBuAGcALwByAGkAcwBpAG4AZwAvAFEAVAAvAHQAZQBzAHQALwBRAFQAYQBiAGwAZQBWAGkAZQB3AC8AUQB0AGEAYgBsAGUAdgBpAGUAdwBfADAAMQAvAHcAaQBkAGcAZQB0AC4AYwBwAHAAAAAUAHcAaQBkAGcAZQB0AC4AYwBwAHAAAAATQ3BwRWRpdG9yLkMrK0VkaXRvcgAAAHYALwBoAG8AbQBlAC8AZABvAG4AZwAvAHIAaQBzAGkAbgBnAC8AUQBUAC8AdABlAHMAdAAvAFMAYwBhAG4AQwBoAGEAcgB0AC8AcwBjAGEAbgBjAGgAYQByAHQAXwAwADEALwB3AGkAZABnAGUAdAAuAGMAcABwAAAAFAB3AGkAZABnAGUAdAAuAGMAcABwAAAAE0NwcEVkaXRvci5DKytFZGl0b3IAAADTAAAADWN1cnJlbnRlZGl0b3IAAAB4AC8AaABvAG0AZQAvAGQAbwBuAGcALwByAGkAcwBpAG4AZwAvAFEAVAAvAHQAZQBzAHQALwBTAGMAYQBuAEMAaABhAHIAdAAvAHMAYwBhAG4AYwBoAGEAcgB0AF8AMAAxAC8AcwBjAGEAbgBjAGgAYQByAHQALgBoAAAAJgBDAHAAcABFAGQAaQB0AG8AcgAuAEMAKwArAEUAZABpAHQAbwByAAAAGAAAAAEAAAAAAAAAAAAAAAoAAAATAAAAAA==</value>
+ </data>
+ <data>
+  <variable>ProjectDependencies</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>ProjectList</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">/home/dong/rising/QT/test/QTableView/Qtableview_01/Qtableview_01.pro</value>
+   <value type="QString">/home/dong/rising/QT/test/ScanChart/scanchart_01/scanchart_01.pro</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>StartupProject</variable>
+  <value type="QString">/home/dong/rising/QT/test/ScanChart/scanchart_01/scanchart_01.pro</value>
+ </data>
+ <data>
+  <variable>value-ActiveMode</variable>
+  <value type="QString">Edit</value>
+ </data>
+ <data>
+  <variable>value-Breakpoints</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-DefaultFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-IndividualFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-ProjectTree.ExpandData</variable>
+  <valuelist type="QVariantList">
+   <valuelist type="QVariantList">
+    <value type="QString">/home/dong/rising/QT/test/QTableView/Qtableview_01</value>
+    <value type="QString">Headers</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/dong/rising/QT/test/ScanChart/scanchart_01</value>
+    <value type="QString">Sources</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/dong/rising/QT/test/ScanChart/scanchart_01</value>
+    <value type="QString">Headers</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/dong/rising/QT/test/QTableView/Qtableview_01</value>
+    <value type="QString">Sources</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/dong/rising/QT/test/ScanChart/scanchart_01</value>
+    <value type="QString">scanchart_01</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/dong/rising/Source_Code/UnixRav3/RavQt/MainApp/home</value>
+    <value type="QString">/home/dong/rising/Source_Code/UnixRav3/RavQt/MainApp/home</value>
+   </valuelist>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.Categories</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Task.Category.QmlAnalysis</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.IncludeWarnings</variable>
+  <value type="bool">true</value>
+ </data>
+ <data>
+  <variable>value-Watchers</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>valueKeys</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">ActiveMode</value>
+   <value type="QString">Breakpoints</value>
+   <value type="QString">DefaultFormats</value>
+   <value type="QString">IndividualFormats</value>
+   <value type="QString">ProjectTree.ExpandData</value>
+   <value type="QString">TaskWindow.Categories</value>
+   <value type="QString">TaskWindow.IncludeWarnings</value>
+   <value type="QString">Watchers</value>
+  </valuelist>
+ </data>
+</qtcreator>
