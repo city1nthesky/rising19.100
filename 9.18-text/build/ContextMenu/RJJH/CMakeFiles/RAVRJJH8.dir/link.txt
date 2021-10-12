@@ -1,0 +1,1 @@
+/usr/bin/c++  -static-libstdc++ -static-libgcc -rdynamic CMakeFiles/RAVRJJH8.dir/main.cpp.o CMakeFiles/RAVRJJH8.dir/__/__/CommonAPI/commonapi.cpp.o CMakeFiles/RAVRJJH8.dir/__/__/CommonAPI/configfile.cpp.o CMakeFiles/RAVRJJH8.dir/__/__/CommonAPI/communicatebundle.cpp.o CMakeFiles/RAVRJJH8.dir/__/__/Storage/cinifile.cpp.o -o ../../3.0.0.1/bin/RAVRJJH8  -lpthread 

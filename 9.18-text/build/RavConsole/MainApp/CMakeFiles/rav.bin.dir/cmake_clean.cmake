@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "../../3.0.0.1/bin/rav.bin"
+  "../../3.0.0.1/bin/rav.bin.pdb"
+  "CMakeFiles/rav.bin.dir/__/__/BaseController/appconfig.cpp.o"
+  "CMakeFiles/rav.bin.dir/__/__/BaseController/appconfig.cpp.o.d"
+  "CMakeFiles/rav.bin.dir/__/__/BaseController/application.cpp.o"
+  "CMakeFiles/rav.bin.dir/__/__/BaseController/application.cpp.o.d"
+  "CMakeFiles/rav.bin.dir/__/__/BaseController/storagebridge.cpp.o"
+  "CMakeFiles/rav.bin.dir/__/__/BaseController/storagebridge.cpp.o.d"
+  "CMakeFiles/rav.bin.dir/__/__/CommonAPI/centerlistener.cpp.o"
+  "CMakeFiles/rav.bin.dir/__/__/CommonAPI/centerlistener.cpp.o.d"
+  "CMakeFiles/rav.bin.dir/aboutview.cpp.o"
+  "CMakeFiles/rav.bin.dir/aboutview.cpp.o.d"
+  "CMakeFiles/rav.bin.dir/dialog.cpp.o"
+  "CMakeFiles/rav.bin.dir/dialog.cpp.o.d"
+  "CMakeFiles/rav.bin.dir/editview.cpp.o"
+  "CMakeFiles/rav.bin.dir/editview.cpp.o.d"
+  "CMakeFiles/rav.bin.dir/listview.cpp.o"
+  "CMakeFiles/rav.bin.dir/listview.cpp.o.d"
+  "CMakeFiles/rav.bin.dir/main.cpp.o"
+  "CMakeFiles/rav.bin.dir/main.cpp.o.d"
+  "CMakeFiles/rav.bin.dir/menu.cpp.o"
+  "CMakeFiles/rav.bin.dir/menu.cpp.o.d"
+  "CMakeFiles/rav.bin.dir/optionview.cpp.o"
+  "CMakeFiles/rav.bin.dir/optionview.cpp.o.d"
+  "CMakeFiles/rav.bin.dir/screen.cpp.o"
+  "CMakeFiles/rav.bin.dir/screen.cpp.o.d"
+  "CMakeFiles/rav.bin.dir/settingview.cpp.o"
+  "CMakeFiles/rav.bin.dir/settingview.cpp.o.d"
+  "CMakeFiles/rav.bin.dir/textview.cpp.o"
+  "CMakeFiles/rav.bin.dir/textview.cpp.o.d"
+  "CMakeFiles/rav.bin.dir/titleview.cpp.o"
+  "CMakeFiles/rav.bin.dir/titleview.cpp.o.d"
+  "CMakeFiles/rav.bin.dir/view.cpp.o"
+  "CMakeFiles/rav.bin.dir/view.cpp.o.d"
+  "CMakeFiles/rav.bin.dir/window.cpp.o"
+  "CMakeFiles/rav.bin.dir/window.cpp.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/rav.bin.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

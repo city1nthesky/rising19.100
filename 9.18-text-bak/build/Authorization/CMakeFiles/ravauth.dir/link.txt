@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../3.0.0.1/lib/libravauth.a CMakeFiles/ravauth.dir/configimpl.cpp.o CMakeFiles/ravauth.dir/cfgapiimpl.cpp.o CMakeFiles/ravauth.dir/tree.cpp.o CMakeFiles/ravauth.dir/node.cpp.o CMakeFiles/ravauth.dir/checksn.cpp.o CMakeFiles/ravauth.dir/checkvalid.cpp.o CMakeFiles/ravauth.dir/cfgmutex.cpp.o CMakeFiles/ravauth.dir/shmem.cpp.o CMakeFiles/ravauth.dir/ravbase64.cpp.o CMakeFiles/ravauth.dir/mutex.cpp.o CMakeFiles/ravauth.dir/hash.cpp.o CMakeFiles/ravauth.dir/unixrscfg.cpp.o CMakeFiles/ravauth.dir/regapi.cpp.o
+/usr/bin/ranlib ../3.0.0.1/lib/libravauth.a

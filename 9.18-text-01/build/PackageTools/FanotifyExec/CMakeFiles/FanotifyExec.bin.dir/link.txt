@@ -1,0 +1,1 @@
+/usr/bin/cc -static -rdynamic CMakeFiles/FanotifyExec.bin.dir/main.c.o -o ../../3.0.0.1/bin/FanotifyExec.bin 

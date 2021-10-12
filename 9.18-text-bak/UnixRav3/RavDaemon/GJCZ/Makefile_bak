@@ -1,0 +1,31 @@
+include ../Makefile.conf
+
+CFLAGS=-I. -I../CommonAPI -I../ScanEngine/ -I../Communicator -I../Storage -I../BaseController -I../Upgrade -I../ThirdPart/unix_engine2013 -I../ThirdPart/include/libxml2
+TARGET=$(BIN_DIR)/RAVGGFW0
+OBJS=main.o \
+    mainengine.o \
+    clientinfo.o \
+    clientinfo_linux.o \
+    scheduleengine.o \
+    pluginentry.o \
+    webserver.o \
+    taskproxy.o \
+    policysyncparser.o \
+	usbpluginchecker.o \
+	defenmodproxy.o \
+	ukcom_u.o \
+	scannotifycallback.o
+
+all:$(TARGET)
+
+$(TARGET):$(OBJS)
+	$(CXX) $^ -o $@ -lpthread -ludev -L$(LIB_DIR) -lravbase -lravstorage -lravcommon -lravscanengine -lravcommunicate -lravupdate -L../ThirdPart/lib -lravz -lraviconv -lravcrypto -lravcurl -lravssl -lravxml2 -L../ThirdPart/unix_engine2013/rame.bin -lrxruntim -lrxmss -lrxcoml -lrxffr -lrxsig64
+
+%.o:%.cpp
+	$(CXX) -c $< -o $@ $(CFLAGS)
+
+%.o:%.c
+	$(CC) -c $< -o $@
+
+clean:
+	rm -f $(TARGET) $(OBJS)

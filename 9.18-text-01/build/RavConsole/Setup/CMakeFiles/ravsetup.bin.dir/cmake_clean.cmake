@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "../../3.0.0.1/bin/ravsetup.bin"
+  "../../3.0.0.1/bin/ravsetup.bin.pdb"
+  "CMakeFiles/ravsetup.bin.dir/__/__/BaseController/appconfig.cpp.o"
+  "CMakeFiles/ravsetup.bin.dir/__/__/BaseController/appconfig.cpp.o.d"
+  "CMakeFiles/ravsetup.bin.dir/__/__/CommonAPI/commonapi.cpp.o"
+  "CMakeFiles/ravsetup.bin.dir/__/__/CommonAPI/commonapi.cpp.o.d"
+  "CMakeFiles/ravsetup.bin.dir/__/__/CommonAPI/communicatebundle.cpp.o"
+  "CMakeFiles/ravsetup.bin.dir/__/__/CommonAPI/communicatebundle.cpp.o.d"
+  "CMakeFiles/ravsetup.bin.dir/__/__/CommonAPI/configfile.cpp.o"
+  "CMakeFiles/ravsetup.bin.dir/__/__/CommonAPI/configfile.cpp.o.d"
+  "CMakeFiles/ravsetup.bin.dir/__/__/CommonAPI/crypt/base64.cpp.o"
+  "CMakeFiles/ravsetup.bin.dir/__/__/CommonAPI/crypt/base64.cpp.o.d"
+  "CMakeFiles/ravsetup.bin.dir/__/__/CommonAPI/crypt/md5.cpp.o"
+  "CMakeFiles/ravsetup.bin.dir/__/__/CommonAPI/crypt/md5.cpp.o.d"
+  "CMakeFiles/ravsetup.bin.dir/__/__/CommonAPI/crypt/rc4.cpp.o"
+  "CMakeFiles/ravsetup.bin.dir/__/__/CommonAPI/crypt/rc4.cpp.o.d"
+  "CMakeFiles/ravsetup.bin.dir/__/__/CommonAPI/crypt/rscrypt.cpp.o"
+  "CMakeFiles/ravsetup.bin.dir/__/__/CommonAPI/crypt/rscrypt.cpp.o.d"
+  "CMakeFiles/ravsetup.bin.dir/__/__/CommonAPI/json/json_reader.cpp.o"
+  "CMakeFiles/ravsetup.bin.dir/__/__/CommonAPI/json/json_reader.cpp.o.d"
+  "CMakeFiles/ravsetup.bin.dir/__/__/CommonAPI/json/json_value.cpp.o"
+  "CMakeFiles/ravsetup.bin.dir/__/__/CommonAPI/json/json_value.cpp.o.d"
+  "CMakeFiles/ravsetup.bin.dir/__/__/CommonAPI/json/json_writer.cpp.o"
+  "CMakeFiles/ravsetup.bin.dir/__/__/CommonAPI/json/json_writer.cpp.o.d"
+  "CMakeFiles/ravsetup.bin.dir/__/__/CommonAPI/zip/unixzip.cpp.o"
+  "CMakeFiles/ravsetup.bin.dir/__/__/CommonAPI/zip/unixzip.cpp.o.d"
+  "CMakeFiles/ravsetup.bin.dir/__/__/ScanEngine/base64.cpp.o"
+  "CMakeFiles/ravsetup.bin.dir/__/__/ScanEngine/base64.cpp.o.d"
+  "CMakeFiles/ravsetup.bin.dir/__/__/Setup/setup.cpp.o"
+  "CMakeFiles/ravsetup.bin.dir/__/__/Setup/setup.cpp.o.d"
+  "CMakeFiles/ravsetup.bin.dir/__/__/Storage/cinifile.cpp.o"
+  "CMakeFiles/ravsetup.bin.dir/__/__/Storage/cinifile.cpp.o.d"
+  "CMakeFiles/ravsetup.bin.dir/main.cpp.o"
+  "CMakeFiles/ravsetup.bin.dir/main.cpp.o.d"
+  "CMakeFiles/ravsetup.bin.dir/ravconsolesetup.cpp.o"
+  "CMakeFiles/ravsetup.bin.dir/ravconsolesetup.cpp.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/ravsetup.bin.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
